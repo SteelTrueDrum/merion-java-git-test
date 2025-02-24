@@ -6,3 +6,5 @@ editing from github
 training with stash
 editing after stash
 added changes in develop branch
+
+added changes from github GUI
