@@ -9,3 +9,4 @@ added changes in develop branch
 added changes in Example.txt localy
 
 added changes from github GUI
+added feature1 in develop branch
