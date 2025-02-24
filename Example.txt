@@ -1,3 +1,6 @@
 Example
 
 editing from github
+
+
+editing after stash
